@@ -1,3 +1,3 @@
 function ls --description 'Enhanced ls'
-exa $argv
+    eza $argv
 end

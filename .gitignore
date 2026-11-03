@@ -10,6 +10,12 @@ firewall.fish
 goqradar.fish
 fresh-build.fish
 deploy.fish
+aws-auth.fish
+goapi.fish
+goschema.fish
+goui.fish
+goshared.fish
+gotypes.fish
 
 goui.fish
 gogql.fish
